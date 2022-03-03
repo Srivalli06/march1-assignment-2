@@ -1,0 +1,3 @@
+cou=("mpcs","mecs","bsc")
+course=("bsc","ds","c")
+print(cou,course)
